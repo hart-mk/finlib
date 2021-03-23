@@ -1,4 +1,7 @@
 # finlib
+
+## Library is no longer maintained
+
 With this library you can: gather fundamental data, historical price data, earnings data, as well as compute financial ratios. This library is built upon yahoofinancials by user JECSand, and adds significant functionality as well as hopefully simplicity.
 
 # DISCLAIMER
